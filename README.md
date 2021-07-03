@@ -4,7 +4,6 @@
 All Hackerrank Regex challanges are solved in a Python Jupyter Notebook
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 sudo apt-get install python3-pip
 
 ```bash
